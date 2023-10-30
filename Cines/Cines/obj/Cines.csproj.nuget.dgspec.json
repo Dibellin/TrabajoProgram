@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Practicas para Program\\EjerciciosPrograII\\Cines\\Cines\\Cines.csproj": {}
+    "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Practicas para Program\\EjerciciosPrograII\\Cines\\Cines\\Cines.csproj": {
+    "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Practicas para Program\\EjerciciosPrograII\\Cines\\Cines\\Cines.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj",
         "projectName": "Cines",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Practicas para Program\\EjerciciosPrograII\\Cines\\Cines\\Cines.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Practicas para Program\\EjerciciosPrograII\\Cines\\Cines\\obj\\",
+        "projectPath": "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj",
+        "packagesPath": "C:\\Users\\killb\\.nuget\\packages\\",
+        "outputPath": "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\killb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -39,14 +39,19 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
