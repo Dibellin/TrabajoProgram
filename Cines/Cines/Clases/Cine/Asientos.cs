@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cines.Clases
+namespace Cines.Clases.Cines.Cines
 {
     class Asientos
     {

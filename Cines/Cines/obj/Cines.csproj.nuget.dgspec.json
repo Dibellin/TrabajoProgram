@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Proyecto Laboratorio\\X\\TrabajoProgram\\Cines\\Cines\\Cines.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Proyecto Laboratorio\\X\\TrabajoProgram\\Cines\\Cines\\Cines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Proyecto Laboratorio\\X\\TrabajoProgram\\Cines\\Cines\\Cines.csproj",
         "projectName": "Cines",
-        "projectPath": "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\Cines.csproj",
-        "packagesPath": "C:\\Users\\killb\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\Cine\\TrabajoProgram\\Cines\\Cines\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Proyecto Laboratorio\\X\\TrabajoProgram\\Cines\\Cines\\Cines.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Proyecto Laboratorio\\X\\TrabajoProgram\\Cines\\Cines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\killb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

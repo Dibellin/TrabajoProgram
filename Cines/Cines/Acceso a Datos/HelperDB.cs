@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using SistemaCineBack.Acceso_a_Datos.Parametros;
-using Cines.Clases;
+using Cines.Clases.Cines;
 
 namespace SistemaCineBack.Acceso_a_Datos
 {

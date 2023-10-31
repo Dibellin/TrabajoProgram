@@ -1,4 +1,4 @@
-﻿using Cines.Clases;
+﻿using Cines.Clases.Cines;
 using System;
 using System.Collections.Generic;
 using System.Linq;
